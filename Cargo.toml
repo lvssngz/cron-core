@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/lvssngz/cron-core"
 readme = "README.md"
 keywords = ["cron", "scheduler", "task", "async", "tokio"]
-categories = ["asynchronous", "command-line-utilities", "scheduling"]
+categories = ["asynchronous", "command-line-utilities", "scheduler"]
 rust-version = "1.85"
 
 
