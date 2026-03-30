@@ -1,15 +1,15 @@
 [package]
 name = "cron-core"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 description = "A cron task scheduler library for Rust with async runtime support"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["ming.gz <marketing@lvssn.com>"]
 license = "MIT"
-repository = "https://github.com/yourusername/cron-core"
+repository = "https://github.com/lvssngz/cron-core"
 readme = "README.md"
 keywords = ["cron", "scheduler", "task", "async", "tokio"]
 categories = ["asynchronous", "command-line-utilities", "scheduling"]
-rust-version = "1.70"
+rust-version = "1.85"
 
 
 [dependencies]
